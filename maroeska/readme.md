@@ -32,7 +32,7 @@ Tab-separated values (TSV) with 26 rijen en 2 kolommen:
 *   [`d3-array`](https://github.com/d3/d3-axis#api-reference)
     — `d3.axisBottom` and `d3.axisLeft`
     — Asgenerators voor schalen
-*   [`d3-format`](https://github.com/d3/d3-format)
+*   [`d3-format`](https://github.com/d3/d3-format#api-reference)
     - `d3.format`
     - Uitdrukking getallen
     
