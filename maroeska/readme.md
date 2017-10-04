@@ -45,7 +45,7 @@ https://stackoverflow.com > diverse vragen van mensen gelezen<br>
 https://github.com/d3/d3-array > veel informatie gehaald over D3<br>
 https://developer.mozilla.org/nl/ > informatie gezocht over D3 en errors<br>
 https://developer.mozilla.org/nl/ > informatie gezocht over CSS en JS<br> 
-https://medium.com/@nick3499/d3-scaleband-rangeround-padding-ordinal-scale-with-range-bands-including-padding-f4af1e3c96ab > informatie gezocht over .Scaleband
+https://medium.com/@nick3499/d3-scaleband-rangeround-padding-ordinal-scale-with-range-bands-including-padding-f4af1e3c96ab > informatie gezocht over .Scaleband<br>
 https://github.com/DesleyAalderink/fe3-assessment-1/tree/master/DesleyAalderink > inspiratie voor d3.format
 
 ## License
