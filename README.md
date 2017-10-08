@@ -1,6 +1,6 @@
 ## Assessment 1
 
-![](https://github.com/maroeska/fe3-assessment-1/blob/master/preview.png
+![](fe3-assessment-1/preview.png)
 
 In deze readme beschrijf ik wat ik heb gedaan in mijn assessment, welke data ik heb gebruikt, welke features ik heb gebruikt van D3 en welke bronnen ik heb gebruikt. 
 
